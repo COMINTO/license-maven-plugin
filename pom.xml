@@ -89,7 +89,7 @@
 
   <scm>
     <connection>scm:git:https://github.com/COMINTO/license-maven-plugin.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com:COMINTO/license-maven-plugin.git</developerConnection>
+    <developerConnection>scm:git:ssh://git@github.com/COMINTO/license-maven-plugin.git</developerConnection>
     <url>https://github.com/COMINTO/license-maven-plugin</url>
     <tag>HEAD</tag>
   </scm>
