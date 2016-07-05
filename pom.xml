@@ -32,7 +32,7 @@
   </parent>
 
   <artifactId>license-maven-plugin</artifactId>
-  <version>1.10-SNAPSHOT</version>
+  <version>1.9.1-SNAPSHOT</version>
   <packaging>maven-plugin</packaging>
 
   <name>License Maven Plugin</name>
@@ -88,9 +88,9 @@
   </prerequisites>
 
   <scm>
-    <connection>scm:git:https://github.com/mojohaus/license-maven-plugin.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/mojohaus/license-maven-plugin.git</developerConnection>
-    <url>https://github.com/mojohaus/license-maven-plugin</url>
+    <connection>scm:git:https://github.com/COMINTO/license-maven-plugin.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com:COMINTO/license-maven-plugin.git</developerConnection>
+    <url>https://github.com/COMINTO/license-maven-plugin</url>
     <tag>HEAD</tag>
   </scm>
   <issueManagement>
